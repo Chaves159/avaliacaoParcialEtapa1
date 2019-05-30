@@ -1,0 +1,53 @@
+h1{
+	margin: 15px;
+	text-align: center;
+	font-size: 50px;
+}
+body{
+	background-color: NavajoWhite;
+}
+.subTitulo{
+	border: dotted 1px;
+	background-color: white;
+	font-size: 25px;
+
+}
+.text{
+	padding-left: 20px;
+	background-color: white;
+	text-align: justify;
+	border: dotted 1px;
+	font-size: 20px;
+}
+.imagens{
+	background-color: white;
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+
+#rodape{
+	text-align: center;
+}
+.salvacao{
+	background-color: white;
+	
+}
+.divisao{
+	background-color: Olive;
+
+	float: right;
+}
+
+.fora{
+	background-color: NavajoWhite;
+	padding-left: 250px;
+	padding-right: 250px;
+}
+footer{
+	padding-top: 100px;
+	text-align: center;
+}
+h1{
+	color: ForestGreen;
+}
